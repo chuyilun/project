@@ -14,7 +14,7 @@ def get_img_pairs_list(pairs_txt_path,img_path):
     """ 指定图片组合及其所在文件，返回各图片对的绝对路径
         Args:
             pairs_txt_path：图片pairs文件，里面是6000对图片名字的组合
-            img_path：图片所在文件夹
+            img_path：图片所在文件夹aaaaaaaaaaaaaaaa
         return:
             img_pairs_list：深度为2的list，每一个二级list存放的是一对图片的绝对路径
     """
